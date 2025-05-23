@@ -32,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Akash-Adak/leetcode/tree/master/0073-set-matrix-zeroes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1263-number-of-dice-rolls-with-target-sum](https://github.com/Akash-Adak/leetcode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 <!---LeetCode Topics End-->
