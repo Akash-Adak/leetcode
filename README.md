@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Akash-Adak/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [3194-find-words-containing-character](https://github.com/Akash-Adak/leetcode/tree/master/3194-find-words-containing-character) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Akash-Adak/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/Akash-Adak/leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Greedy
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Akash-Adak/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+## String
+|  |
+| ------- |
+| [3194-find-words-containing-character](https://github.com/Akash-Adak/leetcode/tree/master/3194-find-words-containing-character) |
 <!---LeetCode Topics End-->
