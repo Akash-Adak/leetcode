@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Akash-Adak/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0290-word-pattern](https://github.com/Akash-Adak/leetcode/tree/master/0290-word-pattern) |
 ## Matrix
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Akash-Adak/leetcode/tree/master/0068-text-justification) |
+| [0290-word-pattern](https://github.com/Akash-Adak/leetcode/tree/master/0290-word-pattern) |
 | [3194-find-words-containing-character](https://github.com/Akash-Adak/leetcode/tree/master/3194-find-words-containing-character) |
 ## Simulation
 |  |
