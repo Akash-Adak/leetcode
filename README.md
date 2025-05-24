@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/Akash-Adak/leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Akash-Adak/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0135-candy](https://github.com/Akash-Adak/leetcode/tree/master/0135-candy) |
 | [3194-find-words-containing-character](https://github.com/Akash-Adak/leetcode/tree/master/3194-find-words-containing-character) |
@@ -54,5 +55,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/Akash-Adak/leetcode/tree/master/0068-text-justification) |
 | [3194-find-words-containing-character](https://github.com/Akash-Adak/leetcode/tree/master/3194-find-words-containing-character) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/Akash-Adak/leetcode/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
