@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Akash-Adak/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0290-word-pattern](https://github.com/Akash-Adak/leetcode/tree/master/0290-word-pattern) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Akash-Adak/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Akash-Adak/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Matrix
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/Akash-Adak/leetcode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Akash-Adak/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Akash-Adak/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Bit Manipulation
 |  |
@@ -74,9 +76,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Akash-Adak/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Akash-Adak/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Stack
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Akash-Adak/leetcode/tree/master/0071-simplify-path) |
+## Graph
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Akash-Adak/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Akash-Adak/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Memoization
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Akash-Adak/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
