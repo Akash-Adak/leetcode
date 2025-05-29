@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Akash-Adak/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Akash-Adak/leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## String
 |  |
 | ------- |
@@ -98,4 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Akash-Adak/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+## Depth-First Search
+|  |
+| ------- |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Akash-Adak/leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Akash-Adak/leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 <!---LeetCode Topics End-->
