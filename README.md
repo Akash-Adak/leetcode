@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Akash-Adak/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0135-candy](https://github.com/Akash-Adak/leetcode/tree/master/0135-candy) |
 | [0289-game-of-life](https://github.com/Akash-Adak/leetcode/tree/master/0289-game-of-life) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akash-Adak/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0945-snakes-and-ladders](https://github.com/Akash-Adak/leetcode/tree/master/0945-snakes-and-ladders) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Akash-Adak/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3194-find-words-containing-character](https://github.com/Akash-Adak/leetcode/tree/master/3194-find-words-containing-character) |
@@ -25,11 +26,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akash-Adak/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Akash-Adak/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/Akash-Adak/leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akash-Adak/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [3647-zero-array-transformation-iii](https://github.com/Akash-Adak/leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Prefix Sum
 |  |
@@ -47,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Akash-Adak/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/Akash-Adak/leetcode/tree/master/0289-game-of-life) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akash-Adak/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0945-snakes-and-ladders](https://github.com/Akash-Adak/leetcode/tree/master/0945-snakes-and-ladders) |
 ## Dynamic Programming
 |  |
@@ -112,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0945-snakes-and-ladders](https://github.com/Akash-Adak/leetcode/tree/master/0945-snakes-and-ladders) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Akash-Adak/leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akash-Adak/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
