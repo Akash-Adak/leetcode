@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Akash-Adak/leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Akash-Adak/leetcode/tree/master/0071-simplify-path) |
 | [0290-word-pattern](https://github.com/Akash-Adak/leetcode/tree/master/0290-word-pattern) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Akash-Adak/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Akash-Adak/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3194-find-words-containing-character](https://github.com/Akash-Adak/leetcode/tree/master/3194-find-words-containing-character) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Akash-Adak/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -138,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Akash-Adak/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+## Union Find
+|  |
+| ------- |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Akash-Adak/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 <!---LeetCode Topics End-->
