@@ -1,5 +1,5 @@
 class Solution {
-       public int maxDiff(int num) {
+        public int maxDiff(int num) {
         char[] a = Integer.toString(num).toCharArray(), b = a.clone();
         char x = a[0], y = 0;
         for (int i = 0; i < a.length; ++i) {
