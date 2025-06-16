@@ -1,5 +1,5 @@
 class Solution {
-       public int maximumDifference(int[] nums) {
+     public int maximumDifference(int[] nums) {
         int diff = -1;
         for (int i = 1, min = nums[0]; i < nums.length; ++i) {
             if (nums[i] > min) {
