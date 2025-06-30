@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Akash-Adak/leetcode/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akash-Adak/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/Akash-Adak/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Akash-Adak/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Akash-Adak/leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Akash-Adak/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0242-valid-anagram](https://github.com/Akash-Adak/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Akash-Adak/leetcode/tree/master/0290-word-pattern) |
 | [0594-longest-harmonious-subsequence](https://github.com/Akash-Adak/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Akash-Adak/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Akash-Adak/leetcode/tree/master/0020-valid-parentheses) |
 | [0068-text-justification](https://github.com/Akash-Adak/leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Akash-Adak/leetcode/tree/master/0071-simplify-path) |
+| [0242-valid-anagram](https://github.com/Akash-Adak/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Akash-Adak/leetcode/tree/master/0290-word-pattern) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Akash-Adak/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Akash-Adak/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
