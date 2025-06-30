@@ -234,4 +234,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Akash-Adak/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Akash-Adak/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Akash-Adak/leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
