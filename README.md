@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Akash-Adak/leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Akash-Adak/leetcode/tree/master/0071-simplify-path) |
+| [0155-min-stack](https://github.com/Akash-Adak/leetcode/tree/master/0155-min-stack) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Akash-Adak/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Akash-Adak/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Graph
@@ -269,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Akash-Adak/leetcode/tree/master/0053-maximum-subarray) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Akash-Adak/leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
