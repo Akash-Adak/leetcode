@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Akash-Adak/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akash-Adak/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/Akash-Adak/leetcode/tree/master/0135-candy) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Akash-Adak/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Akash-Adak/leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Akash-Adak/leetcode/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/Akash-Adak/leetcode/tree/master/0289-game-of-life) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Akash-Adak/leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Akash-Adak/leetcode/tree/master/0071-simplify-path) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Akash-Adak/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Akash-Adak/leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Akash-Adak/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Akash-Adak/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Akash-Adak/leetcode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Akash-Adak/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Akash-Adak/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Akash-Adak/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Akash-Adak/leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
