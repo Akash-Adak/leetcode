@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Akash-Adak/leetcode/tree/master/0135-candy) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Akash-Adak/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Akash-Adak/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Akash-Adak/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Akash-Adak/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Akash-Adak/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Akash-Adak/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Akash-Adak/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Akash-Adak/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Akash-Adak/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Akash-Adak/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Akash-Adak/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Akash-Adak/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Akash-Adak/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Akash-Adak/leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Akash-Adak/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Akash-Adak/leetcode/tree/master/0234-palindrome-linked-list) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Akash-Adak/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Akash-Adak/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Akash-Adak/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Graph
