@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akash-Adak/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akash-Adak/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/Akash-Adak/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Akash-Adak/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/Akash-Adak/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Akash-Adak/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Akash-Adak/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Akash-Adak/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Akash-Adak/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akash-Adak/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Akash-Adak/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/Akash-Adak/leetcode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Akash-Adak/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Akash-Adak/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Akash-Adak/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Akash-Adak/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Akash-Adak/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Akash-Adak/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
