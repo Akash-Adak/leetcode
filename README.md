@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Akash-Adak/leetcode/tree/master/0053-maximum-subarray) |
 | [0068-text-justification](https://github.com/Akash-Adak/leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Akash-Adak/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/Akash-Adak/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akash-Adak/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/Akash-Adak/leetcode/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Akash-Adak/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Akash-Adak/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Akash-Adak/leetcode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Akash-Adak/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akash-Adak/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Akash-Adak/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/Akash-Adak/leetcode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
