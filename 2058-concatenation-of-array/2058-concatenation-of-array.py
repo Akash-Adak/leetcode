@@ -4,6 +4,5 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        copy=nums[:]
-        return nums+copy
+        return nums+nums[:]
         
