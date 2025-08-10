@@ -1,15 +1,15 @@
 class Solution {
     public int[] countBits(int n) {
-        int[] ans=new int[n+1];
-        for(int i=0;i<=n;i++){
-
-         String binary = Integer.toBinaryString(i); 
-        //  int c=Integer.bitCount(Integer.parseInt(binary));
-        StringBuilder sb = new StringBuilder(binary);
-        long count = sb.toString().chars().filter(c -> c == '1').count();
-
-            ans[i]=(int)count;
+        int nums[]=new int[n+1];
+        nums[0]=0;
+        for(int i=1;i<=n;i++){
+            // int count=0;
+            // int a=i;
+            
+            nums[i]=Integer.bitCount(i);
         }
-        return ans;
+        return nums;
+
     }
+
 }
