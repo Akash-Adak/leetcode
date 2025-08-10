@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Akash-Adak/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Akash-Adak/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akash-Adak/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/Akash-Adak/leetcode/tree/master/0338-counting-bits) |
 | [0826-soup-servings](https://github.com/Akash-Adak/leetcode/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Akash-Adak/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/Akash-Adak/leetcode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Akash-Adak/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Akash-Adak/leetcode/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/Akash-Adak/leetcode/tree/master/0338-counting-bits) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Akash-Adak/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Akash-Adak/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Akash-Adak/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
