@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Akash-Adak/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akash-Adak/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0046-permutations](https://github.com/Akash-Adak/leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Akash-Adak/leetcode/tree/master/0053-maximum-subarray) |
 | [0068-text-justification](https://github.com/Akash-Adak/leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Akash-Adak/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Akash-Adak/leetcode/tree/master/0046-permutations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Akash-Adak/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Akash-Adak/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Linked List
