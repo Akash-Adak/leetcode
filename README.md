@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/Akash-Adak/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Akash-Adak/leetcode/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/Akash-Adak/leetcode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Akash-Adak/leetcode/tree/master/3827-implement-router) |
 ## Greedy
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Akash-Adak/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Akash-Adak/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/Akash-Adak/leetcode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Akash-Adak/leetcode/tree/master/3827-implement-router) |
 ## Matrix
 |  |
 | ------- |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Akash-Adak/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/Akash-Adak/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Akash-Adak/leetcode/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/Akash-Adak/leetcode/tree/master/3827-implement-router) |
 ## Combinatorics
 |  |
 | ------- |
@@ -453,11 +456,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Akash-Adak/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [3678-design-task-manager](https://github.com/Akash-Adak/leetcode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Akash-Adak/leetcode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Akash-Adak/leetcode/tree/master/3827-implement-router) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Akash-Adak/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Akash-Adak/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [3827-implement-router](https://github.com/Akash-Adak/leetcode/tree/master/3827-implement-router) |
 ## Segment Tree
 |  |
 | ------- |
@@ -474,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-design-task-manager](https://github.com/Akash-Adak/leetcode/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/Akash-Adak/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Akash-Adak/leetcode/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/Akash-Adak/leetcode/tree/master/3827-implement-router) |
 ## Probability and Statistics
 |  |
 | ------- |
